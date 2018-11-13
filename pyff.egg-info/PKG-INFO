@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pyff
+Version: 0.0.1
+Summary: an extensive fantasy football library (ESPN API wrapper and more)
+Home-page: https://github.com/nishilshah17/PyFF
+Author: Nishil Shah, Arvind Vijayakumar
+Author-email: nishilshah17@gmail.com, avjykmr2@illinois.edu
+License: Apache 2.0
+Description: UNKNOWN
+Keywords: fantasy,football,espn
+Platform: UNKNOWN
